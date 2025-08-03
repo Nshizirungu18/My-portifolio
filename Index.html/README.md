@@ -89,15 +89,13 @@
 
   <!-- ========== Interests Section ========== -->
   <section id="interests" class="section-light">
-    <h2>Interests</h2>
-    <p>
-      I'm passionate about entrepreneurship and leveraging innovation to create scalable impact. This mindset drives projects like MenyaAfrica, where I aim to transform how learners access guidance, mentorship, and opportunity across the continent.
-      <br><br>
-      As I grow my skills in AI, I'm focused on designing agent-based tools that support educational access, automate decision-making, and bring intelligent systems closer to real-world utility. My work blends data, logic, and empathy to help communities navigate complexity.
-      <br><br>
-      I care deeply about the intersection of healthcare and education — two areas where thoughtful technology can save lives, shift futures, and create equity. Whether it's streamlining information flow for educators or optimizing processes in medical environments, I envision tools that are simple, intuitive, and empowering.
-    </p>
+      <ul>
+      <h2>Interests</h2>
+         <li><p>Web Development: Exploring modern web development practices.<br/></li>
+         <li>Tech Innovations: Keeping up with emerging trends in technology.</p></li>
+       </ul>
   </section>
+
 
   <!-- ========== Projects Section ========== -->
   <section id="projects" class="section-dark">
